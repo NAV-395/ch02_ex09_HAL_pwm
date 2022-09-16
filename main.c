@@ -1,7 +1,6 @@
 #include "cy_pdl.h"
 #include "cyhal.h"
 #include "cybsp.h"
-
 cyhal_pwm_t pwm_obj;
 int main(void)
 {
@@ -31,4 +30,4 @@ int main(void)
     }
 }
 
-/* [] END OF FILE */
+
